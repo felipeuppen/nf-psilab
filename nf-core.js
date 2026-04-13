@@ -1,4 +1,5 @@
-
+ 
+ 
   // ===================== Configuración general =====================
   var muse;
   let readEEGDataInterval;
